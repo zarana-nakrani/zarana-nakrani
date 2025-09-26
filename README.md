@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently developing website for Community School of Arts Foundation to help them digitalize everything Education.
 - 🌱 I’m currently learning about Large Language Models and ML Ops.
 - 👯 I’m looking to collaborate on exciting projects involving Machine Learning and Data Science
-- 💬 Ask me about ...
 - 📫 How to reach me: zarananakrani@gmail.com
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: Diving deep into human psychology often
