@@ -1,4 +1,4 @@
-## Hi there 👋, I am Zarana Nakrani, web developer with a side kick of Machine Learning and Gen AI making applications used by people and an ML enthusiast teaching computer how to help people.
+## Hi there 👋, I am Zarana Nakrani, web developer with a side kick of Machine Learning and Gen AI, making applications that help people with just few clicks and keyboard hits.
 
 <--
   **zarana-nakrani/zarana-nakrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
